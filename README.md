@@ -67,11 +67,12 @@ I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Ma
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🛒 Walmart Data Analysis](https://github.com/kavirajdesai/WALMART_DATA_ANALYSIS) | End-to-end pipeline on 10K+ retail records — sales trends, profitability & customer behavior | Python, Pandas, MySQL, SQLAlchemy |
-| [☁️ GCP Capstone – Loan Analytics](https://github.com/kavirajdesai/Google-CLoud-Capstone-Project) | Cloud-native loan performance analytics with interactive drill-down dashboards | BigQuery, Looker, GCP |
-| [📊 E-commerce Power BI Dashboard](https://github.com/kavirajdesai/POWERBI_PROJECTS) | Production-grade dashboards surfacing delivery delays, pricing patterns & retention KPIs | Power BI, DAX, Excel |
-| [🍽️ Zomato Food Chain EDA](https://github.com/kavirajdesai/ZOMATO-FOODCHAIN-_DATA_ANALYSIS) | EDA on restaurant data to identify customer preferences & regional demand patterns | Python, Pandas, Seaborn, Matplotlib |
-| [💬 Text Analysis using NLP](https://github.com/kavirajdesai/TEXT_ANALYSIS_USING_NLP) | NLP pipeline for extracting insights from unstructured text data | Python, NLTK, Scikit-learn |
+| [🛒 Walmart Data Analysis](https://github.com/kavirajdesai/WALMART_DATA_ANALYSIS) | End-to-end analytics pipeline on 10K+ retail records — sales trends, profitability & customer behavior insights | Python, Pandas, NumPy, MySQL, SQLAlchemy |
+| [☁️ Loan Analytics — GCP Capstone](https://github.com/kavirajdesai/Google-CLoud-Capstone-Project) | Cloud-native fintech analytics on a $3B+ loan portfolio — outstanding loans, churn risk & regional performance | BigQuery, Looker Studio, GCP |
+| [📊 Power BI Dashboards](https://github.com/kavirajdesai/POWERBI_PROJECTS) | Collection of 3 production-grade dashboards covering retail sales, e-commerce KPIs & corporate profitability | Power BI, DAX, Excel |
+| [🍽️ Zomato Food Chain EDA](https://github.com/kavirajdesai/ZOMATO-FOODCHAIN-_DATA_ANALYSIS) | Exploratory analysis on restaurant data to surface customer preferences & regional food delivery demand patterns | Python, Pandas, Seaborn, Matplotlib, SQL |
+| [👥 Customer Behavior Analytics](https://github.com/kavirajdesai/customer-behavior-analytics) | Full analytics project — data cleaning, SQL business queries & Excel dashboard on customer churn & loyalty tiers | Python, SQL, Excel |
+| [💬 Text Analysis using NLP](https://github.com/kavirajdesai/TEXT_ANALYSIS_USING_NLP) | NLP pipeline for sentiment analysis and insight extraction from unstructured text data | Python, NLTK, Scikit-learn |
 
 ---
 
@@ -110,16 +111,6 @@ I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Ma
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kavirajdesai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavirajdesai&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
 
 ---
 
