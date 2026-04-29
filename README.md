@@ -7,9 +7,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavirajdesai)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavirajdesai)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=kavirajds22@gmail.com)
-[![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.linkedin.com/in/kavirajdesai)
-[![AWS Certified](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.linkedin.com/in/kavirajdesai)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=kavirajds22@gmail.com)
+[![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/fd80c420-c25d-4685-bbab-30333510ce5c)
+[![AWS Certified](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/9661b33a-f55a-43f2-81fc-981a8efa4f30)
 
 </div>
 
@@ -78,15 +78,14 @@ I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Ma
 ## 💼 Experience Snapshot
 
 ```
-📌 Teaching Assistant (CS)     — Sacred Heart University  (Apr 2025 – Dec 2025)
-   └─ DSA (C++) | Visual Basic (.NET) | 20+ students mentored
+📌 Data Analyst Intern         — Vinayak Computers       (Jun 2023 – May 2024)
+   └─ SQL + Power BI dashboards | 5+ daily business users | Data pipeline design
 
 📌 AI Trainer (Data & Analytics) — Handshake AI Fellowship (Sep 2025 – Oct 2025)
    └─ LLM evaluation | Prompt engineering | Human feedback for model improvement
 
-📌 Data Analyst Intern         — Vinayak Computers       (Jun 2023 – May 2024)
-   └─ SQL + Power BI dashboards | 5+ daily business users | Data pipeline design
-
+📌 Teaching Assistant (CS)     — Sacred Heart University  (Apr 2025 – Dec 2025)
+   └─ DSA (C++) | Visual Basic (.NET) | 20+ students mentored
 ```
 
 ---
@@ -104,11 +103,24 @@ I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Ma
 
 <div align="center">
 
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud_Data_Analytics-2025-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)]([https://www.linkedin.com/in/kavirajdesai](https://www.credly.com/badges/fd80c420-c25d-4685-bbab-30333510ce5c))
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud_Data_Analytics-2025-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/fd80c420-c25d-4685-bbab-30333510ce5c)
 &nbsp;
-[![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-2026-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]([https://www.linkedin.com/in/kavirajdesai](https://www.credly.com/badges/9661b33a-f55a-43f2-81fc-981a8efa4f30))
+[![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-2026-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/9661b33a-f55a-43f2-81fc-981a8efa4f30)
 
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kavirajdesai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavirajdesai&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
 ---
 
 ## 🤝 Let's Connect
@@ -119,7 +131,7 @@ I'm actively looking for **Data Analyst** or **Business Analyst** opportunities.
 If you're working on something interesting or want to collaborate — let's talk!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavirajdesai)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=kavirajds22@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=kavirajds22@gmail.com)
 
 </div>
 
