@@ -104,9 +104,9 @@ I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Ma
 
 <div align="center">
 
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud_Data_Analytics-2025-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.linkedin.com/in/kavirajdesai)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud_Data_Analytics-2025-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)]([https://www.linkedin.com/in/kavirajdesai](https://www.credly.com/badges/fd80c420-c25d-4685-bbab-30333510ce5c))
 &nbsp;
-[![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-2026-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.linkedin.com/in/kavirajdesai)
+[![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-2026-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]([https://www.linkedin.com/in/kavirajdesai](https://www.credly.com/badges/9661b33a-f55a-43f2-81fc-981a8efa4f30))
 
 </div>
 ---
