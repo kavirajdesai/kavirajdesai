@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavirajdesai)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavirajdesai)
-[![Gmail](https://img.shields.io/badge/kavirajds22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=GMAIL)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=kavirajds22@gmail.com)
 [![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.linkedin.com/in/kavirajdesai)
 [![AWS Certified](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.linkedin.com/in/kavirajdesai)
 
