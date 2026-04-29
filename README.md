@@ -119,7 +119,7 @@ I'm actively looking for **Data Analyst** or **Business Analyst** opportunities.
 If you're working on something interesting or want to collaborate — let's talk!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavirajdesai)
-[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavirajds22@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=kavirajds22@gmail.com)
 
 </div>
 
