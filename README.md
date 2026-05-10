@@ -71,6 +71,7 @@ I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Ma
 | [📊 Power BI Dashboards](https://github.com/kavirajdesai/POWERBI_PROJECTS) | Collection of 3 production-grade dashboards covering retail sales, e-commerce KPIs & corporate profitability | Power BI, DAX, Excel |
 | [🍽️ Zomato Food Chain EDA](https://github.com/kavirajdesai/ZOMATO-FOODCHAIN-_DATA_ANALYSIS) | Exploratory analysis on restaurant data to surface customer preferences & regional food delivery demand patterns | Python, Pandas, Seaborn, Matplotlib, SQL |
 | [👥 Customer Behavior Analytics](https://github.com/kavirajdesai/customer-behavior-analytics) | Full analytics project — data cleaning, SQL business queries & Excel dashboard on customer churn & loyalty tiers | Python, SQL, Excel |
+| [📋 Job Application Tracker CLI](https://github.com/kavirajdesai/job-tracker) | Command-line tool to track job applications — full input validation, stats dashboard, CSV persistence & 14 pytest tests | Python, CSV, Regex, Pytest |
 | [💬 Text Analysis using NLP](https://github.com/kavirajdesai/TEXT_ANALYSIS_USING_NLP) | NLP pipeline for sentiment analysis and insight extraction from unstructured text data | Python, NLTK, Scikit-learn |
 
 ---
