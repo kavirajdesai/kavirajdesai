@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Typing Animation Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kaviraj+Desai+%F0%9F%91%8B;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Turning+Raw+Data+into+Real+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kaviraj+Desai+%F0%9F%91%8B;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Microsoft+Certified+PL-300+%7C+GCP+%7C+AWS;Turning+Raw+Data+into+Real+Decisions)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavirajdesai)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=kavirajds22@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=kavirajdesai1171@gmail.com)
+[![PL-300 Certified](https://img.shields.io/badge/Microsoft_PL--300-Power_BI_Certified-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-gb/users/kavirajdesai-6611/credentials/certification/data-analyst-associate)
 [![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/fd80c420-c25d-4685-bbab-30333510ce5c)
-[![AWS Certified](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/9661b33a-f55a-43f2-81fc-981a8efa4f30)
 
 </div>
 
@@ -22,8 +22,9 @@ I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Ma
 
 - 🎓 M.S. Computer Science @ **Sacred Heart University** *(GPA: 3.96/4.0)*
 - 💼 **1+ year** of hands-on data analytics experience
-- ☁️ **Google Cloud Data Analytics Certified** | **AWS Cloud Practitioner Certified**
-- 🔍 Seeking **Data Analyst / Business Analyst** roles
+- 🏆 **Microsoft Certified PL-300** — Power BI Data Analyst Associate
+- ☁️ **Google Cloud Data Analytics** | **AWS Cloud Practitioner** Certified
+- 🔍 Seeking **Data Analyst / Business Intelligence** roles
 
 ---
 
@@ -66,6 +67,7 @@ I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Ma
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [📊 Power BI Capstone — Tailwind Traders](https://github.com/kavirajdesai/microsoft-powerbi-data-analyst-capstone) | End-to-end BI capstone — Excel prep, data modeling, DAX measures, executive dashboard & Power BI Service deployment | Power BI, DAX, Power Query, Python, Excel |
 | [🛒 Walmart Data Analysis](https://github.com/kavirajdesai/WALMART_DATA_ANALYSIS) | End-to-end analytics pipeline on 10K+ retail records — sales trends, profitability & customer behavior insights | Python, Pandas, NumPy, MySQL, SQLAlchemy |
 | [☁️ Loan Analytics — GCP Capstone](https://github.com/kavirajdesai/Google-CLoud-Capstone-Project) | Cloud-native fintech analytics on a $3B+ loan portfolio — outstanding loans, churn risk & regional performance | BigQuery, Looker Studio, GCP |
 | [📊 Power BI Dashboards](https://github.com/kavirajdesai/POWERBI_PROJECTS) | Collection of 3 production-grade dashboards covering retail sales, e-commerce KPIs & corporate profitability | Power BI, DAX, Excel |
@@ -77,17 +79,14 @@ I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Ma
 ---
 
 ## 💼 Experience Snapshot
-
-```
 📌 Data Analyst Intern         — Vinayak Computers       (Jun 2023 – May 2024)
-   └─ SQL + Power BI dashboards | 5+ daily business users | Data pipeline design
+└─ SQL + Power BI dashboards | 5+ daily business users | Data pipeline design
 
 📌 AI Trainer (Data & Analytics) — Handshake AI Fellowship (Sep 2025 – Oct 2025)
-   └─ LLM evaluation | Prompt engineering | Human feedback for model improvement
+└─ LLM evaluation | Prompt engineering | Human feedback for model improvement
 
 📌 Teaching Assistant (CS)     — Sacred Heart University  (Apr 2025 – Dec 2025)
-   └─ DSA (C++) | Visual Basic (.NET) | 20+ students mentored
-```
+└─ DSA (C++) | Visual Basic (.NET) | 20+ students mentored
 
 ---
 
@@ -104,6 +103,8 @@ I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Ma
 
 <div align="center">
 
+[![PL-300](https://img.shields.io/badge/Microsoft_PL--300-Power_BI_Data_Analyst_Associate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-gb/users/kavirajdesai-6611/credentials/certification/data-analyst-associate)
+&nbsp;
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud_Data_Analytics-2025-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/fd80c420-c25d-4685-bbab-30333510ce5c)
 &nbsp;
 [![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-2026-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/9661b33a-f55a-43f2-81fc-981a8efa4f30)
@@ -112,17 +113,16 @@ I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Ma
 
 ---
 
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
-I'm actively looking for **Data Analyst** or **Business Analyst** opportunities.  
+Microsoft Certified Power BI Data Analyst (PL-300) actively looking for
+**Data Analyst** or **Business Intelligence** opportunities.
 If you're working on something interesting or want to collaborate — let's talk!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavirajdesai)
-[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=kavirajds22@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=kavirajdesai1171@gmail.com)
 
 </div>
 
