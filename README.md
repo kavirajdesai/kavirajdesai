@@ -79,7 +79,7 @@ I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Ma
 ---
 
 ## 💼 Experience Snapshot
-📌 Data Analyst Intern         — Vinayak Computers       (Jun 2023 – May 2024)
+📌 Data Analyst         — Vinayak Computers       (Sep 2022 – July 2024)
 └─ SQL + Power BI dashboards | 5+ daily business users | Data pipeline design
 
 📌 AI Trainer (Data & Analytics) — Handshake AI Fellowship (Sep 2025 – Oct 2025)
