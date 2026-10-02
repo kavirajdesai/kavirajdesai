@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kaviraj+Desai+%F0%9F%91%8B;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Microsoft+Certified+PL-300+%7C+GCP+%7C+AWS;Turning+Raw+Data+into+Real+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Kaviraj+Desai+%F0%9F%91%8B;Research+%26+Data+Analytics+Intern+%40+ISS;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Microsoft+Certified+PL-300+%7C+GCP+%7C+AWS;Turning+Raw+Data+into+Real+Decisions)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,19 +18,26 @@
 
 > *"Data is the new oil — but only if you can refine it."*
 
-I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Master's in Computer Science (GPA: 3.96/4.0)** at Sacred Heart University, Fairfield, CT. I specialize in building end-to-end data pipelines, crafting interactive dashboards, and delivering actionable business insights across **retail, finance, and e-commerce** domains.
+I'm a **Data Analyst** and currently a **Research & Data Analytics Intern at International Sibling Society (ISS)**, based in **Milledgeville, GA**. I recently earned my **Master's in Computer Science (GPA: 3.96/4.0)** from Sacred Heart University, Fairfield, CT.
 
+I specialize in transforming raw data into actionable insights through **SQL, Python, Power BI, data visualization, KPI analysis, and research**. At ISS, I'm gaining hands-on experience with platform analytics, data collection, dashboard development, user research, A/B testing, performance reporting, and data-driven decision-making.
+
+My broader analytics experience spans **retail, finance, e-commerce, and nonprofit/global-impact initiatives**, with projects ranging from end-to-end data pipelines to interactive BI dashboards and cloud-based analytics.
+
+- 💼 **Research & Data Analytics Intern @ International Sibling Society (ISS)**
 - 🎓 M.S. Computer Science @ **Sacred Heart University** *(GPA: 3.96/4.0)*
-- 💼 **1+ year** of hands-on data analytics experience
+- 📊 **1+ year** of hands-on data analytics experience
 - 🏆 **Microsoft Certified PL-300** — Power BI Data Analyst Associate
 - ☁️ **Google Cloud Data Analytics** | **AWS Cloud Practitioner** Certified
-- 🔍 Seeking **Data Analyst / Business Intelligence** roles
+- 🐍 Working with **Python, SQL, Power BI, Tableau, Excel & Cloud Analytics**
+- 🔍 Open to **Data Analyst / Business Intelligence** opportunities
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 ### 🐍 Languages & Query
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
@@ -38,6 +45,7 @@ I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Ma
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ### 📊 Analytics & ML
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -45,18 +53,21 @@ I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Ma
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### ☁️ Cloud & Data Engineering
+
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ### 📈 BI & Visualization
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ### 🔧 Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -79,14 +90,38 @@ I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Ma
 ---
 
 ## 💼 Experience Snapshot
-📌 Data Analyst         — Vinayak Computers       (Sep 2022 – July 2024)
-└─ SQL + Power BI dashboards | 5+ daily business users | Data pipeline design
 
-📌 AI Trainer (Data & Analytics) — Handshake AI Fellowship (Sep 2025 – Oct 2025)
-└─ LLM evaluation | Prompt engineering | Human feedback for model improvement
+### 📌 Research & Data Analytics Intern
+**International Sibling Society (ISS)** | Sep 2026 – Present
 
-📌 Teaching Assistant (CS)     — Sacred Heart University  (Apr 2025 – Dec 2025)
-└─ DSA (C++) | Visual Basic (.NET) | 20+ students mentored
+- Analyze platform data and track **user growth, engagement, retention, and KPIs**
+- Develop **data visualizations and dashboards** to communicate trends and performance
+- Support **data collection systems, reporting, and impact evaluation**
+- Conduct **user surveys, interviews, and qualitative research**
+- Analyze research data to identify **trends, insights, and recommendations**
+- Support **A/B testing** and user experience optimization
+- Collaborate with cross-functional teams on **data-driven goals and performance tracking**
+
+### 📌 Data Analyst
+**Vinayak Computers** | Sep 2022 – Jul 2024
+
+- SQL + Power BI dashboards
+- 5+ daily business users
+- Data pipeline design
+
+### 📌 AI Trainer — Data & Analytics
+**Handshake AI Fellowship** | Sep 2025 – Oct 2025
+
+- LLM evaluation
+- Prompt engineering
+- Human feedback for model improvement
+
+### 📌 Teaching Assistant — Computer Science
+**Sacred Heart University** | Apr 2025 – Dec 2025
+
+- Data Structures & Algorithms (C++)
+- Visual Basic (.NET)
+- Mentored 20+ students
 
 ---
 
@@ -117,9 +152,14 @@ I'm a **Data Analyst** based in **Milledgeville, GA**, recent graduate with **Ma
 
 <div align="center">
 
-Microsoft Certified Power BI Data Analyst (PL-300) actively looking for
-**Data Analyst** or **Business Intelligence** opportunities.
-If you're working on something interesting or want to collaborate — let's talk!
+I'm currently working as a **Research & Data Analytics Intern at International Sibling Society (ISS)** while continuing to build projects in **Data Analytics, Business Intelligence, and Cloud Analytics**.
+
+I'm a **Microsoft Certified Power BI Data Analyst (PL-300)** and open to connecting about
+**Data Analyst**, **Business Intelligence**, and **Analytics** opportunities.
+
+If you're working on something interesting, hiring for an analytics role, or want to collaborate — let's talk!
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavirajdesai)
 [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=kavirajdesai1171@gmail.com)
@@ -129,7 +169,11 @@ If you're working on something interesting or want to collaborate — let's talk
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavirajdesai&style=flat-square&color=2196F3" alt="Profile Views"/>
-  <br/>
-  <sub>⭐ If you find my projects useful, give them a star! It keeps me motivated.</sub>
+
+<img src="https://komarev.com/ghpvc/?username=kavirajdesai&style=flat-square&color=2196F3" alt="Profile Views"/>
+
+<br/>
+
+<sub>⭐ If you find my projects useful, give them a star! It keeps me motivated.</sub>
+
 </div>
